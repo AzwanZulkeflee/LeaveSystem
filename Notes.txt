@@ -1,0 +1,50 @@
+DAtabase Design
+
+Company
+- name
+- location
+- logo
+-employees
+- working days (public holiday apply)
+
+my work team
+-job title 
+- location
+
+Leave settings
+-start on
+-message when apply leave
+
+annual holidays
+-days -8 
+- calculation leave entitlement
+
+sick
+-days 14 days
+-yes or no
+
+hospitalization 
+- days -60
+
+apply leave
+-google calendar
+-location
+-employee name
+-leave type
+-start date
+-end date
+-reason
+
+view applicatons
+-employee
+-department
+-location
+
+report 
+-employee leave details 
+group by
+-department
+-year
+
+leave summary
+-all history
